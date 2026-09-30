@@ -1,7 +1,7 @@
 # Contexto Inicial do Projeto
 
-**Projeto:** Sistema de Gestão — Fazenda Garrote  
-**Repositório:** `fazenda-garrote-gestao`  
+**Projeto:** AgroGest  
+**Repositório:** `AgroGest`  
 **Status:** Documento inicial evolutivo
 
 ## 1. Objetivo deste documento
