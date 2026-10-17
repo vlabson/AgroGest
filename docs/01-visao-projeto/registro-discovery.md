@@ -1,6 +1,6 @@
 # Registro da discovery do AgroGest
 
-Status: levantamento inicial em andamento. Este registro não representa uma visão de projeto aprovada.
+Status: contexto inicial consolidado; entrevista de discovery ainda não iniciada. Este registro não representa uma visão de projeto aprovada.
 Data da consolidação inicial: 2026-10-16.
 Fonte: contexto-inicial-projeto.md e decisões já registradas na conversa do projeto.
 
@@ -28,6 +28,8 @@ Acompanhamento: [cartões da discovery](acompanhamento-discovery.md).
 | Problemas e consequências | Intenção de melhorar a administração. | Situações concretas, frequência e consequências observadas. |
 | Prioridade | Ainda não definida. | Escolha do problema e justificativa. |
 | Resultado esperado | Utilidade real e aprendizagem. | Melhoria específica para o negócio e forma de verificá-la. |
+| Produto e capacidades | Aplicação web independente, inicialmente em computador. | Capacidades gerais e sua ligação com necessidades ainda não definidas. |
+| Fronteiras e interações | Existe planilha e obrigação de preservar histórico. | Responsabilidades do sistema e trocas com pessoas e ferramentas. |
 | Condições e limites | Contexto inicial documentado. | Revisão das premissas e limites após conhecer a atividade. |
 | Validação | Roteiro e método revisados. | Confirmação do entendimento específico do negócio e aprovação da visão. |
 
@@ -37,9 +39,9 @@ Para cada levantamento, registrar: data, participante ou fonte, assunto, relato,
 
 Nenhuma resposta nova de discovery foi obtida ainda neste registro.
 
-## Primeira pergunta pendente
+## Próxima atividade
 
-Qual atividade da administração da Fazenda Garrote você deseja examinar primeiro, e como a realiza hoje, do início ao fim?
+Aplicar o roteiro revisado após a organização do processo. A revisão documental não acrescentou respostas de negócio. A [visão em rascunho](visao-projeto.md) reúne os pontos conhecidos e explicita as lacunas. Não considerar as perguntas respondidas pela existência do modelo.
 
 ## Pendências posteriores
 
