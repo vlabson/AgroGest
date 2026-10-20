@@ -6,6 +6,10 @@ Aplicação web proposta para apoiar a administração rural, com primeiro uso p
 
 Mapa do processo revisão 0.3 aprovado em 2026-10-16. As definições estão organizadas em Markdown; a etapa atual é salvar e consolidar essa preparação antes de iniciar a discovery. A visão do produto permanece em rascunho. Consulte o registro de aprovação no mapa.
 
+## Estrutura completa
+
+[**Abrir todas as 21 fases, atividades e cartões**](docs/fases/README.md). Cada fase possui seu próprio diretório Markdown, com guia, atividades e resultados a consolidar.
+
 ## Comece por aqui
 
 1. [Mapa do processo completo](docs/00-processo/mapa-processo.md): o que definir em cada fase, onde registrar e quando avançar.

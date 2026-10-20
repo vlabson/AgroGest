@@ -2,7 +2,9 @@
 
 Processo revisão 0.3. A visão está em rascunho; nenhum critério de negócio foi concluído apenas pela revisão do processo.
 
-[Consultar issues](https://github.com/vlabson/AgroGest/issues?q=is%3Aissue%20label%3Afase-01). Os cartões D01 a D07 estão alinhados aos critérios abaixo. D07 explicita a definição do sistema. A discovery ainda não foi iniciada; os cartões permanecem a levantar. Não criar cartões de todas as fases antes de haver trabalho executável.
+[Consultar issues](https://github.com/vlabson/AgroGest/issues?q=is%3Aissue%20label%3Afase-01). Os cartões D01 a D07 estão alinhados aos critérios abaixo. D07 explicita a definição do sistema. A discovery ainda não foi iniciada; os cartões permanecem a levantar. As demais fases também estão estruturadas, conforme solicitação do responsável; preparar cartões não significa iniciar sua execução.
+
+[Guia da Fase 01](../fases/01-descoberta-e-visao-do-projeto/README.md) · [Cartão principal](https://github.com/vlabson/AgroGest/issues/12) · [Todas as fases](../fases/README.md)
 
 ## Cartões e cobertura
 
