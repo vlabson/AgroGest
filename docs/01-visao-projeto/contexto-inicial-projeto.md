@@ -82,7 +82,7 @@ Java com Spring Boot será utilizado como tecnologia de backend.
 PostgreSQL é o candidato preferencial neste momento, porém a escolha ainda deverá ser validada tecnicamente durante as fases de modelagem de dados e arquitetura.
 
 ### DT04 — Hospedagem
-A hospedagem ainda não foi definida. Durante desenvolvimento e validação inicial, será considerada preferencialmente uma alternativa gratuita ou de baixo custo que seja tecnicamente adequada.
+A beta será executada e testada localmente no computador do responsável. Uma publicação na internet poderá ser avaliada se houver uma alternativa gratuita e adequada, mas não é condição para a entrega de 31/12/2026. Nesta etapa, não há orçamento para serviços pagos.
 
 ---
 
@@ -108,7 +108,7 @@ Quais dados históricos da planilha serão efetivamente importados para o novo s
 PostgreSQL é tecnicamente a escolha mais adequada para os requisitos que serão identificados?
 
 ### D06 — Hospedagem
-Onde frontend, backend e banco de dados serão hospedados durante as diferentes etapas do projeto?
+O ambiente da beta será local, no computador do responsável. Permanece em aberto a eventual hospedagem gratuita na internet e a hospedagem de versões posteriores; publicação externa não é requisito da beta.
 
 ### D07 — Backup e recuperação
 Qual será a estratégia de backup, retenção e recuperação dos dados?
@@ -156,3 +156,19 @@ Quando uma questão for resolvida:
 
 ### Versão inicial
 Documento criado durante a Fase 0 — Iniciação e Organização, consolidando as condições iniciais conhecidas antes do início formal da descoberta e visão do projeto.
+
+## 9. Condições acordadas para a primeira beta
+
+Consolidação autorizada por Vlabson na conversa “Iniciar fase 00”, em 19/10/2026. Estas condições orientam o planejamento; não definem o escopo funcional nem representam conclusão da Fase 00.
+
+### Entrega e prazo
+A meta é uma primeira versão funcional, em beta para testes locais, até 31/12/2026. O prazo tem como motivação principal o aprendizado, e não uma urgência operacional da Fazenda Garrote. As funcionalidades e os critérios mínimos de aceite serão definidos nas fases apropriadas. Após os testes da beta, será elaborado um planejamento para uma versão mais consolidada e testada.
+
+### Disponibilidade e orçamento
+O responsável dedicará 1 hora por noite ao AgroGest, aproximadamente 7 horas semanais, além de 2 horas por noite para estudos. O tempo de estudos não será automaticamente contabilizado como execução do projeto. Nesta etapa, serão utilizados apenas recursos gratuitos; qualquer gasto depende de uma nova decisão do responsável.
+
+### Responsabilidades e participação
+Vlabson é responsável pelo projeto, pelas decisões de prioridade e escopo, pelo desenvolvimento e pela validação dos controles e fluxos da Fazenda Garrote. A validação inicial será realizada por ele sozinho. Seu pai poderá ser envolvido futuramente, quando houver algo mais concreto e Vlabson considerar necessário; essa participação não é dependência para o início. Vlabson também é responsável pela operação da beta local: executar a aplicação e cuidar dos dados durante os testes, com apoio do assistente nas orientações. Procedimentos de execução e backup serão detalhados nas fases apropriadas. A responsabilidade pela operação de versões futuras será revista quando houver planejamento de publicação ou ampliação do uso.
+
+### Ambiente de teste
+A entrega prevista será executada e testada no computador de Vlabson. Publicação na internet é uma possibilidade condicionada à existência de alternativa gratuita e adequada, sem comprometer a meta de entrega local. Esta definição atualiza o direcionamento anterior de hospedagem gratuita ou de baixo custo: a condição vigente é somente gratuita.

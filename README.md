@@ -4,7 +4,7 @@ Aplicação web proposta para apoiar a administração rural, com primeiro uso p
 
 ## Situação atual
 
-Mapa do processo revisão 0.3 aprovado em 2026-10-16. As definições estão organizadas em Markdown; a etapa atual é salvar e consolidar essa preparação antes de iniciar a discovery. A visão do produto permanece em rascunho. Consulte o registro de aprovação no mapa.
+Mapa do processo revisão 0.3 aprovado em 2026-10-16. Fase 00 concluída e aprovada em 19/10/2026 para o ciclo da primeira beta funcional local, com data-alvo de 31/12/2026 e orçamento gratuito. O próximo passo é conduzir a descoberta na Fase 01. Consulte o [registro da Fase 00](docs/fases/00-iniciacao-e-organizacao/registro-resultados.md). A visão do produto permanece em rascunho. Consulte o registro de aprovação no mapa.
 
 ## Estrutura completa
 

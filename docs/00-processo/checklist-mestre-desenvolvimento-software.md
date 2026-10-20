@@ -22,31 +22,33 @@ Referência operacional: mapa-processo.md define entradas, saídas, responsávei
 
 ## FASE 0 — INICIAÇÃO E ORGANIZAÇÃO
 
-- [ ] Registrar nome provisório do projeto
+- [C] Registrar nome provisório do projeto
 
-- [ ] Registrar ideia/origem da necessidade
+- [C] Registrar ideia/origem da necessidade
 
-- [ ] Identificar responsável pelo produto/projeto
+- [C] Identificar responsável pelo produto/projeto
 
-- [ ] Definir onde o projeto será versionado
+- [C] Definir onde o projeto será versionado
 
-- [ ] Criar repositório Git
+- [C] Criar repositório Git
 
-- [ ] Definir estrutura inicial para documentação
+- [C] Definir estrutura inicial para documentação
 
-- [ ] Adicionar este checklist ao repositório
+- [C] Adicionar este checklist ao repositório
 
-- [ ] Definir convenção inicial de nomes e organização dos documentos
+- [C] Definir convenção inicial de nomes e organização dos documentos
 
-- [ ] Registrar premissas, restrições e dúvidas conhecidas
+- [C] Registrar premissas, restrições e dúvidas conhecidas
 
-- [ ] Definir quem decide escopo, valida uso, desenvolve e responde pela operação; registrar disponibilidade de tempo e orçamento conhecidos
+- [C] Definir quem decide escopo, valida uso, desenvolve e responde pela operação; registrar disponibilidade de tempo e orçamento conhecidos
 
-- [ ] Definir como registrar riscos, decisões, alterações e aprovações e como separar dados públicos de dados privados
+- [C] Definir como registrar riscos, decisões, alterações e aprovações e como separar dados públicos de dados privados
 
 Artefato/saída: Repositório inicial + checklist mestre versionado.
 
 Critério de saída: Responsável confirma condições iniciais; acesso e organização permitem registrar o trabalho. Verificar apenas o recorte do incremento ou ciclo em avaliação.
+
+Aprovação: Vlabson, 19/10/2026, ciclo da beta local. Evidências e pendências encaminhadas no [registro da Fase 00](../fases/00-iniciacao-e-organizacao/registro-resultados.md).
 
 <a id="fase-01"></a>
 

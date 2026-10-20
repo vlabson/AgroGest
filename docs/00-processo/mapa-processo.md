@@ -112,7 +112,7 @@ Repositório público: publicar apenas informações apropriadas. Não adicionar
 
 ## Situação atual
 
-Fase 0: infraestrutura e documentação inicial existentes; checklist não foi retroativamente marcado como concluído. Fase 01: em levantamento; visão em rascunho e decisões de negócio pendentes. Demais fases: previstas, ainda não executadas. Projetos do GitHub: quadro visual pendente de acesso; issues disponíveis. Não calcular porcentagem de conclusão pela quantidade de arquivos ou perguntas respondidas.
+Fase 00: condições iniciais conferidas e conclusão aprovada por Vlabson em 19/10/2026 para a beta local; evidências em [registro de resultados](../fases/00-iniciacao-e-organizacao/registro-resultados.md). Atualização dos cartões remotos pendente de autorização específica. Fase 01: em levantamento; visão em rascunho e decisões de negócio pendentes. Demais fases: previstas, ainda não executadas. Projetos do GitHub: quadro visual pendente de acesso; issues disponíveis. Não calcular porcentagem de conclusão pela quantidade de arquivos ou perguntas respondidas.
 
 ## Organização publicada em 2026-10-19
 

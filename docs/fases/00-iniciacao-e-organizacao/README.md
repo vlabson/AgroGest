@@ -2,7 +2,7 @@
 
 [Índice de todas as fases](../README.md) · [Cartão principal](https://github.com/vlabson/AgroGest/issues/8)
 
-**Situação inicial:** Preparação inicial existente; conclusão da fase ainda precisa ser conferida. O estado atualizado deve ser consultado no cartão.
+**Situação:** concluída e aprovada por Vlabson em 19/10/2026 para o ciclo da beta local. Consulte o [registro de resultados](registro-resultados.md) para evidências e pendências encaminhadas. A atualização dos cartões no GitHub aguarda autorização específica.
 
 ## Atividades e subdocumentos
 

@@ -4,7 +4,7 @@ Fase 00 — Iniciação e organização.
 
 [Voltar à fase](README.md) · [Cartão](https://github.com/vlabson/AgroGest/issues/9)
 
-Situação: prevista, ainda não validada como concluída.
+Situação: validada para o ciclo da beta local por Vlabson em 19/10/2026. Evidências e pendências em [registro-resultados.md](registro-resultados.md).
 
 ## Objetivo
 
@@ -16,11 +16,11 @@ Intenção e responsável conhecidos.
 
 ## Passos
 
-- [ ] Identificar o incremento, versão ou ciclo e consultar seus registros de origem.
-- [ ] Conferir disponibilidade das entradas indicadas acima.
-- [ ] Identificar quem executa, quem valida e quais autorizações são necessárias.
-- [ ] Registrar informações ausentes, dependências e riscos que podem impedir o trabalho.
-- [ ] Definir o recorte de execução e as evidências que permitirão avaliar a saída.
+- [x] Identificar o incremento, versão ou ciclo e consultar seus registros de origem.
+- [x] Conferir disponibilidade das entradas indicadas acima.
+- [x] Identificar quem executa, quem valida e quais autorizações são necessárias.
+- [x] Registrar informações ausentes, dependências e riscos que podem impedir o trabalho.
+- [x] Definir o recorte de execução e as evidências que permitirão avaliar a saída.
 
 ## Quem participa
 
